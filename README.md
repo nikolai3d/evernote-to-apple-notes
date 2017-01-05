@@ -13,4 +13,5 @@ See https://discussion.evernote.com/topic/4046-importing-from-apple-mailapps-not
 
 Evernote should now contain all your Apple Notes (iCloud Notes) in a separate Notebook.
 
-  - @nikolai3D
+Cheers, 
+-@nikolai3D (https://twitter.com/Nikolai3d) 
